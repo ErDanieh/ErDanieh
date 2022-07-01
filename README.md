@@ -1,4 +1,10 @@
-### Hi there 👋
+### Bienvenido a ErDanieh 😋
+En este pequeño Github encontrarás ayuda para salvar las asignaturas de la UA
+- 🌱 Estoy aprendiendo Javascript ahora mismo
+- 👯 Colaborando en la Universidad de Alicante
+- 💬 Si necesitas algo puedes escribirme a mi correo :) o en twitter si lo prefieres
+- 📫 Este es mi correo: danielasensi444@outlook.com 
+- ⚡ Fun fact: Tengo un gatete 🐈
 
 <!--
 **ErDanieh/ErDanieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
