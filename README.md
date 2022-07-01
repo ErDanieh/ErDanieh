@@ -1,5 +1,7 @@
 ### Bienvenido a ErDanieh 😋
-En este pequeño Github encontrarás ayuda para salvar las asignaturas de la UA
+En este pequeño Github encontrarás ayuda para salvar las asignaturas de Ingeniería informática en la UA
+aquí encontrarás materiales tanto teóricos como prácticos, la mayoría con buena nota, así que si vas a coger
+alguno sueltate una estrillita al repo y más gente podrá aprobar UwU.
 - 🌱 Estoy aprendiendo Javascript ahora mismo
 - 👯 Colaborando en la Universidad de Alicante
 - 💬 Si necesitas algo puedes escribirme a mi correo :) o en twitter si lo prefieres
