@@ -1,12 +1,15 @@
 ### Bienvenido a ErDanieh 😋
-En este pequeño Github encontrarás ayuda para salvar las asignaturas de Ingeniería informática en la UA
-aquí encontrarás materiales tanto teóricos como prácticos, la mayoría con buena nota, así que si vas a coger
-alguno sueltate una estrillita al repo y más gente podrá aprobar UwU.
-- 🌱 Estoy aprendiendo Javascript ahora mismo
-- 👯 Colaborando en la Universidad de Alicante
-- 💬 Si necesitas algo puedes escribirme a mi correo :) o en twitter si lo prefieres
-- 📫 Este es mi correo: danielasensi444@outlook.com 
-- ⚡ Fun fact: Tengo un gatete 🐈
+### Hi!! Wellcome to my Profile
+In this profile i'm currently uploading the project that i made on the UA university, whith the goal to help all my career mates
+
+- 🌱 I’m currently learning Hyperledger Fabric and improving my skills at the frontEnd
+- 💬 If you need something you can mail me :)
+- 📫 This is my mail: danielasensi444@outlook.com 
+- ⚡ Fun fact: I have a cat 🐈
+
+I know many technologies here I leave you a list of all:
+
+
 
 <!--
 **ErDanieh/ErDanieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
