@@ -26,7 +26,7 @@ I know many technologies here I leave you a list of all:
 
 <a margin="10" href="https://www.postman.com/" target="_blank"><img margin="10px" height="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="PostMan"></a>
 
-<a margin="10" href="https://www.python.org/downloads/" target="_blank"><img margin="10px" height="40" src="![image](https://user-images.githubusercontent.com/71588528/183291570-88913fc1-e06d-452c-a13f-4834deb21b72.png)" alt="Python"></a>
+<a margin="10" href="https://www.python.org/downloads/" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python"></a>
 
 
 <!--
