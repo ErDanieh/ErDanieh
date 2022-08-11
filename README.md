@@ -1,6 +1,6 @@
 ### Bienvenido a ErDanieh 😋
 ### Hi!! Wellcome to my Profile
-In this profile i'm currently uploading the project that i made on the UA university, whith the goal to help all my career mates
+In this profile i'm currently uploading the project that i made at the UA university, whith the goal to help all my career mates
 
 - 🌱 I’m currently learning Hyperledger Fabric and improving my skills at the frontEnd
 - 💬 If you need something you can mail me :)
