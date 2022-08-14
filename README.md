@@ -21,10 +21,11 @@ In this profile i'm currently uploading the projects that I carried out at the U
 <a margin="10" href="https://www.python.org/downloads/" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python"></a>
 <a margin="10" href="https://es.reactjs.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" alt="React"></a>
 <a margin="10" href="https://es.reactjs.org/" target="_blank"><img margin="10px" height="40" src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo.png" alt="Linux"></a>
-
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ErDanieh&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Erdanieh">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErDanieh&layout=compact&theme=dark&bg_color=0A0A0A" alt="ErDanieh Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErDanieh&layout=compact&theme=dark&bg_color=0A0A0A" alt="ErDanieh Top Languages"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 
 <!--
 **ErDanieh/ErDanieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
