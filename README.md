@@ -2,7 +2,7 @@
 ### Hi!! Wellcome to my Profile
 In this profile i'm currently uploading the projects that I carried out at the UA university, with the aim of helping all my fellow students.
 
-- 🌱 I’m currently learning Hyperledger Fabric and improving my skills at the frontEnd
+- 🌱 I’m currently learning Solidity, Web3, and improving my skills at the frontEnd
 - 💬 If you need something you can mail me :)
 - 📫 This is my mail: danielasensi444@outlook.com 
 - ⚡ Fun fact: I have a cat 🐈
