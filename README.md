@@ -2,7 +2,7 @@
 ### Hi!! Wellcome to my Profile
 In this profile i'm currently uploading the projects that I carried out at the UA university, with the aim of helping all my fellow students.
 
-- 🌱 I’m currently learning Solidity, Web3, and improving my skills at the frontEnd
+- 🌱 I’m currently learning Solidity, Web3, and improving my skills at the frontEnd with frameWorks like Next.js <a margin="10" href="https://media.graphcms.com/VKHHNvEETYqZRkqgjybc" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Next.js"></a>and React or React Native
 - 💬 If you need something you can mail me :)
 - 📫 This is my mail: danielasensi444@outlook.com 
 - ⚡ Fun fact: I have a cat 🐈
