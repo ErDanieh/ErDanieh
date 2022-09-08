@@ -2,7 +2,7 @@
 ### Hi!! Wellcome to my Profile
 In this profile i'm currently uploading the projects that I carried out at the UA university, with the aim of helping all my fellow students.
 
-- 🌱 I’m currently learning Solidity, Web3, and improving my skills at the frontEnd with frameWorks like Next.js <a margin="10" href="https://media.graphcms.com/VKHHNvEETYqZRkqgjybc" target="_blank"><img margin="10px" height="40" src="https://media.graphcms.com/VKHHNvEETYqZRkqgjybc" alt="Next.js"></a>and React or React Native
+- 🌱 I’m currently learning Solidity, Web3, and improving my skills at the frontEnd with frameWorks like Next.js and React or React Native
 - 💬 If you need something you can mail me :)
 - 📫 This is my mail: danielasensi444@outlook.com 
 - ⚡ Fun fact: I have a cat 🐈
@@ -27,6 +27,7 @@ In this profile i'm currently uploading the projects that I carried out at the U
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+   <a margin="10" href="https://media.graphcms.com/VKHHNvEETYqZRkqgjybc" target="_blank"><img margin="10px" height="40" src="https://media.graphcms.com/VKHHNvEETYqZRkqgjybc" alt="Next.js"></a>
 
   
   
