@@ -7,27 +7,6 @@ In this profile i'm currently uploading the projects that I carried out at the U
 - 📫 This is my mail: danielasensi444@outlook.com 
 - ⚡ Fun fact: I have a cat 🐈
 
-## Tech Stack
-
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
-<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
-<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
-<a margin="10" href="https://devdocs.io/c/" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/c.svg" alt="c programming"></a>
-<a margin="10" href="https://www.innovasys.com/product/dx/features_dotnet?gclid=Cj0KCQjwxb2XBhDBARIsAOjDZ35Imk17-gqDF44sf3YhZygvGTHHCH3rmQcVkkG_HEgw3DHW5voFA-waAjoQEALw_wcB" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++ programming"></a>
-<a margin="10" href="https://www.postman.com/" target="_blank"><img margin="10px" height="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="PostMan"></a>
-<a margin="10" href="https://www.python.org/downloads/" target="_blank"><img margin="10px" height="40" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python"></a>
-<a margin="10" href="https://es.reactjs.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" alt="React"></a>
-<a margin="10" href="https://es.reactjs.org/" target="_blank"><img margin="10px" height="40" src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo.png" alt="Linux"></a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-   <a margin="10" href="https://media.graphcms.com/VKHHNvEETYqZRkqgjybc" target="_blank"><img margin="10px" height="40" src="https://media.graphcms.com/VKHHNvEETYqZRkqgjybc" alt="Next.js"></a>
 
   
   
