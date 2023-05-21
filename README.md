@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Solidity, Web3, and improving my skills at the frontEnd with frameWorks like Next.js and React or React Native<br>💬 If you need something you can mail me :)<br>📫 This is my mail: danielasensi444@outlook.com<br>⚡ Fun fact: I have a cat 🐈
+🌱 I’m currently learning Solidity and Web3, and learning LangChain development<br>💬 If you need something you can mail me :)<br>📫 This is my mail: danielasensi444@outlook.com<br>⚡ Fun fact: I have a cat 🐈
 
 
 ## 🌐 Socials:
