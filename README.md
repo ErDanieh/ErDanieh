@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Solidity and Web3, and ML development<br>💬 If you need something you can mail me :)<br>📫 This is my mail: danielasensi444@outlook.com<br>⚡ Fun fact: I have a cat 🐈
+🌱 I’m currently learning Solidity and Web3, and ML development<br>💬 If you need something you can mail me :)<br>📫 This is my mail: danielasensi444@outlook.com<br>⚡ Fun fact: I have two cats 🐈
 
 
 ## 🌐 Socials:
